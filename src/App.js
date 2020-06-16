@@ -5,11 +5,11 @@ import Child from './child.js';
 function App() {
   return (
     <div className="App">
-      <Child childAge="12"/>
+      <Child childAge="10"/>
 
       <hr/>
 
-      <Child childAge="13"/>
+      <Child childAge="17"/>
 
     </div>
   );
