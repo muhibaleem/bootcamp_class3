@@ -5,7 +5,7 @@ import Child from './child.js';
 function App() {
   return (
     <div className="App">
-      <Child childAge="10"/>
+      <Child childAge="16"/>
 
       <hr/>
 
